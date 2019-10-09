@@ -1,0 +1,395 @@
+-------------------------------------List of Informations Entered----------------------------------------------------
+
+
+Accepted
+Identification Number ENCR: #wCMoMoC
+First Name: john
+Second Name: tesfu
+Age: 19
+Birth Year: 1992
+Place Living: aa
+Password ENCR: 199001991
+
+Accepted
+Identification Number ENC: #wQaaeQe
+First Name: asdas
+Second Name: asdas
+Age: 19
+Birth Year: 1992
+Place Living: asdsa
+Password ENC: 999101XBZZXZbad
+
+Accepted
+Identification Number ENC: #aeCwQUC
+First Name: dasas
+Second Name: sda
+Age: 19
+Birth Year: 1992
+Place Living: asas
+Password ENC: 199ZXZBZ9119091
+
+Accepted
+Identification Number ENC: #sMYUaae
+First Name: 
+Second Name: 
+Age: 19
+Birth Year: 1992
+Place Living: 
+Password ENC: 1999
+
+Accepted
+Identification Number ENC: #YUQMYCM
+First Name: 
+Second Name: 
+Age: 19
+Birth Year: 1992
+Place Living: 
+Password ENC: 1090
+
+Accepted
+Identification Number ENC: #MYMYMYs
+First Name: sadasda
+Second Name: asasdas
+Age: 20
+Birth Year: 1991
+Place Living: sda
+Password ENC: 199
+
+Accepted
+Identification Number ENC: #wYoQwwU
+First Name: sdfssdfs
+Second Name: sdfsf
+Age: 20
+Birth Year: 1991
+Place Living: sfsd
+Password ENC: 90190XZXZ
+
+Accepted
+Identification Number ENC: #MUMoaMQ
+First Name: dsaadsaa
+Second Name: asa
+Age: 30
+Birth Year: 1981
+Place Living: adsa
+Password ENC: 91991
+
+Accepted
+Identification Number ENC: #saQeewY
+First Name: saassaas
+Second Name: asada
+Age: 20
+Birth Year: 1991
+Place Living: aasdas
+Password ENC: 1999199
+
+Accepted
+Identification Number ENC: #seMYQMU
+First Name: dasadasa
+Second Name: sadas
+Age: 20
+Birth Year: 1991
+Place Living: adsa
+Password ENC: 9199
+
+Accepted
+Identification Number ENC: #owaewsw
+First Name: fdsfsfdsfs
+Second Name: sfdss
+Age: 19
+Birth Year: 1992
+Place Living: sdfs
+Password ENC: 9199
+
+Accepted
+Identification Number ENC: #asewYeM
+First Name: dasdas
+Second Name: ada
+Age: 20
+Birth Year: 1991
+Place Living: dssd
+Password ENC: 919
+
+Accepted
+Identification Number ENC: #weaoQQM
+First Name: asdasasasdasas
+Second Name: 
+Age: 20
+Birth Year: 1991
+Place Living: 
+Password ENC: 199
+
+Accepted
+Identification Number ENC: #oQoQCsC
+First Name: adsaadsa
+Second Name: 
+Age: 20
+Birth Year: 1991
+Place Living: 
+Password ENC: 19
+
+Accepted
+Identification Number ENC: #aaMUosw
+First Name: asdsaasdsa
+Second Name: 
+Age: 20
+Birth Year: 1991
+Place Living: 
+Password ENC: 
+
+Accepted
+Identification Number ENC: #sQwYose
+First Name: asdaasda
+Second Name: 
+Age: 20
+Birth Year: 1991
+Place Living: 
+Password ENC: 
+
+Accepted
+
+Accepted
+Identification Number ENC: #MCeCeoQ
+First Name: aasasaasas
+Second Name: aas
+Age: 20
+Birth Year: 1991
+Place Living: adasa
+Password ENC: 99919
+
+Accepted
+Identification Number ENC: #MQewMQo
+First Name: sddsssddsscgvc
+Second Name: sdfsd
+Age: 20
+Birth Year: 1991
+Place Living: sdfs
+Password ENC: 90901901
+
+
+#NOTES: this is the end a   a   a
+
+Accepted
+Identification Number ENC: #woaeeoo
+First Name: yohannesyohannes
+Second Name: tesfu
+Age: 23
+Birth Year: 1988
+Place Living: mekele
+Password ENC: 9101001
+
+Declined
+Identification Number ENC: #oYoewYw
+First Name: samisami
+Second Name: girma
+Age: 45
+Birth Year: 1966
+Place Living: aa
+Password ENC: 1910
+#NOTES: this is the end of the code
+
+Accepted
+Identification Number ENC: #MCMoMaC
+First Name: johnjohn
+Second Name: tesfu
+Age: 19
+Birth Year: 1992
+Place Living: aa
+Password ENC: 9190
+
+Accepted
+Identification Number ENC: #QQQCYUC
+First Name: jjjj
+Second Name: tt
+Age: 30
+Birth Year: 1981
+Place Living: aa
+Password ENC: !1<2@3>4#5=()6$7+^*8%9&%:0
+
+Accepted
+Identification Number ENC: #oweYaYs
+First Name: jjdjjd
+Second Name: dd
+Age: 20
+Birth Year: 1991
+Place Living: sfd
+Password ENC: !*3>2*2
+
+Accepted
+Identification Number ENC: #YUesQaU
+First Name: dfsfsdsddfsfsdsd
+Second Name: sdfsdfsd
+Age: 20
+Birth Year: 1991
+Place Living: sdfsdsd
+Password ENC: !*2!*3*>*2
+
+Accepted
+Identification Number ENC: #seoCosU
+First Name: johnjohn
+Second Name: tesfu
+Age: 30
+Birth Year: 1981
+Place Living: aa
+Password ENC: !*2&@
+
+Accepted
+Identification Number ENC: #YwoMMoa
+First Name: johnjohn
+Second Name: tesfu
+Age: 19
+Birth Year: 1992
+Place Living: aa
+Password ENC: &&@
+
+Declined
+Identification Number ENC: #wYQseew
+First Name: sadasasadasa
+Second Name: sas
+Age: 12
+Birth Year: 1999
+Place Living: asa
+Password ENC: !*2!2
+
+Declined
+Identification Number ENC: #oQQYsoC
+First Name: sdadsdad
+Second Name: asa
+Age: 12
+Birth Year: 1999
+Place Living: asa
+Password ENC: !*2*!
+
+Declined
+Identification Number ENC: #CUCeQwC
+First Name: asaasa
+Second Name: asa
+Age: 10
+Birth Year: 2001
+Place Living: asa
+Password ENC: *!!
+
+Accepted
+Identification Number ENC: #YoeeswQ
+First Name: asdsaaasdsaa
+Second Name: sasaasd
+Age: 20
+Birth Year: 1991
+Place Living: asda
+Password ENC: *!
+
+Accepted
+Identification Number ENC: #YCUUwQQ
+First Name: sasasasa
+Second Name: assa
+Age: 20
+Birth Year: 1991
+Place Living: asa
+Password ENC: !*!
+
+Accepted
+Identification Number ENC: #wQQMMMM
+First Name: aasaasasasassaaasaasasasassa
+Second Name: asasd
+Age: 20
+Birth Year: 1991
+Place Living: saasas
+Password ENC: *!!*
+
+Accepted
+Identification Number ENC: #aUaUoso
+First Name: assaassa
+Second Name: asasasa
+Age: 20
+Birth Year: 1991
+Place Living: asas
+Password ENC: !*!
+
+Accepted
+Identification Number ENC: #Uweesae
+First Name: sdadsdad
+Second Name: asda
+Age: 20
+Birth Year: 1991
+Place Living: asads
+Password ENC: !*!
+
+Accepted
+Identification Number ENC: #UYYMwee
+First Name: asdsaasdsa
+Second Name: sd
+Age: 20
+Birth Year: 1991
+Place Living: asda
+Password ENC: *!!*3>>
+
+Accepted
+Identification Number ENC: #YwYaaCa
+First Name: asddsaasddsa
+Second Name: asdas
+Age: 20
+Birth Year: 1991
+Place Living: adasf
+Password ENC: !2*6*!
+
+Accepted
+Identification Number ENC: #oQaYMCs
+First Name: adsadsasaasdddddddadsadsasaasddddddd
+Second Name: adssssssssssss
+Age: 20
+Birth Year: 1991
+Place Living: asddasdsadas
+Password ENC: !*23@<
+
+Accepted
+Identification Number ENC: #QeQYewC
+First Name: sdasda
+Second Name: saasd
+Age: 20
+Birth Year: 1991
+Place Living: sada
+Password ENC: *!2!*!!*!*22*!2
+
+Declined
+Identification Number ENC: #QUeMYCa
+First Name: sffsff
+Second Name: sdfs
+Age: 123
+Birth Year: 1888
+Place Living: sfsd
+Password ENC: ^@&^&@asdaasdsaadaassadasadasdsdaadassadaasda
+
+Declined
+Identification Number ENC: #QasQooa
+First Name: jooohhnnjooohhnn
+Second Name: fdgfdg
+Age: 122
+Birth Year: 1889
+Place Living: asdasd
+Password ENC: &@2^3*
+
+Accepted
+Identification Number ENC: #UQeYCsM
+First Name: sdsasdsa
+Second Name: asdas
+Age: 20
+Birth Year: 1991
+Place Living: asdaaaaaaaaaaaaaa
+Password ENC: !*2@2*3*23*2
+
+Accepted
+
+Accepted
+Identification Number ENC: #ssawMMo
+First Name: asaasa
+Second Name: asda
+Age: 20
+Place Living: da
+Password ENC: !*2!*2
+
+Accepted
+Identification Number ENC: #asasMMs
+First Name: johnjohn
+Second Name: sdasd
+Age: 20
+Place Living: asad
+Password ENC: !*23@*
